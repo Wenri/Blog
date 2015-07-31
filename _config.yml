@@ -5,7 +5,7 @@ locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
-url: wenri.github.io
+url: http://wenri.github.io
 
 # Jekyll configuration
 
@@ -33,7 +33,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Bingchen Gong
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: gongbingchen@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
