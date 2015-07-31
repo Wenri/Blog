@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Wenri JUSHI
 locale: en_US
-description: Describe your website here.
+description: IS NULL and IS NOT NULL
 logo: site-logo.png
 search: true
 url: http://wenri.github.io
