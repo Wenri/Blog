@@ -5,7 +5,7 @@ locale: en_US
 description: IS NULL and IS NOT NULL
 logo: site-logo.png
 search: true
-url: http://wenri.github.io
+url: http://wenri.me
 
 # Jekyll configuration
 
