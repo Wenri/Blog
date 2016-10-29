@@ -7,13 +7,13 @@
   url: /articles/
 
 - title: Pages
-  url: /blog/
+  url: /pages/
+
+- title: Blog
+  url: https://blog.wenri.me
 
 - title: Friends
   url: /friends/
-
-- title: WordPress
-  url: https://blog.wenri.me
 
 - title: Search
   url: /search/
