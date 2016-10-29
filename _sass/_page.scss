@@ -21,7 +21,7 @@
 
 .entry-feature-image {
 	margin: 20px 0 0;
-	width: 100%;
+	max-width: 960px;
 
 	@include media($medium) {
 		margin-top: -75px; /* move up to be overlapped by site logo */
