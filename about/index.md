@@ -7,6 +7,7 @@ image:
   feature: so-simple-sample-image-4.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+published: false
 ---
 
 I am Bingchen Gong, an undergraduate student of Zhejiang University.
