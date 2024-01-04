@@ -46,7 +46,7 @@ jobs:
         # Outputs to the './_site' directory by default
         run: |
           bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-          wget --directory-prefix=./_site/.well-known/matrix https://matrix.wenri.me/.well-known/matrix/client https://matrix.wenri.me/.well-known/matrix/server
+          wget --directory-prefix=./_site/.well-known/matrix https://matrix.wenri.me/.well-known/matrix/client https://matrix.wenri.me/.well-known/matrix/server https://matrix.wenri.me/.well-known/matrix/support
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
